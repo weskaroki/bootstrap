@@ -1,0 +1,23 @@
+.carousel-inner{
+    width: 100%;
+    height: 70vh;
+
+}
+.row h4{
+    color: #087990;
+    font-family: "JetBrains Mono SemiBold";
+    font-weight: 300;
+    font-size: 24px;
+}
+.row .container-mt-3{
+    color: #0a53be;
+}
+.row .passport img{
+    width: 100%;
+    height: 30vh;
+    border-radius: 5px;
+}
+.row .bg-secondary{
+
+    color: #0f5132;
+}
